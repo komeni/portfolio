@@ -873,7 +873,17 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
-  margin-left: 32vw;
+}
+.s-m{
+  color: #fff;
+  font-weight: bolder;
+}
+.a-m{
+  color: #728394;
+}
+.s-m:hover{
+  color: #728394;
+
 }
 .contact .info i {
   font-size: 20px;
